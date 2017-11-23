@@ -15,8 +15,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8"
 
-msgid "About Cryptocurrency"
-msgstr "About Cryptocurrency"
+msgid "About Cryptocurrency ABC"
+msgstr "About Cryptocurrency ABC"
 
 msgid ""
 "SPARTA is a new cryptocurrency created to improve financial relations among "
