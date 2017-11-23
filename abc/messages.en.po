@@ -18,5 +18,5 @@ msgstr ""
 msgid "Hello World!!!"
 msgstr "Hello World!!!"
 
-msgid "abcd"
-msgstr "abcd"
+msgid "aaa"
+msgstr "aaa"

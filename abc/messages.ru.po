@@ -17,3 +17,6 @@ msgstr ""
 
 msgid "Hello World!!!"
 msgstr "Привет Мир!!!"
+
+msgid "aaa"
+msgstr "ааа"
