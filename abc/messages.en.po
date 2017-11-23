@@ -19,4 +19,4 @@ msgid "Hello World!!!"
 msgstr "Hello World!!!"
 
 msgid "abc"
-msgstr "abc1"
+msgstr "abc"
