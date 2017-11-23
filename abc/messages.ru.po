@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8"
 
 msgid "Hello World!!!"
-msgstr "Привет Мир!"
+msgstr "Привет Мир!!!"
 
-msgid "abc"
-msgstr "АБВ1"
+msgid "abcd"
+msgstr "абвг2"
